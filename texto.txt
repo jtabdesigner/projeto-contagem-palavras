@@ -1,0 +1,7 @@
+Thiago de Araujo é um profissional com mais de 10 anos de experiência em suporte e infraestrutura, com ampla atuação em cloud computing (AWS, Azure, Google Cloud e Oracle Cloud)
+e especialização em monitoramento com Grafana e Zabbix. Sua trajetória inclui cargos como Analista de Infraestrutura e SRE Pleno, onde atuou em empresas como a UpFlux, 
+focando na operação, administração, resiliência e segurança de ambientes em nuvem, utilizando Kubernetes e Docker. 
+Também trabalhou na Dígitro, mantendo a infraestrutura do NOC e ambientes SaaS.
+Thiago possui experiência em Linux, automação, DevOps, Docker, Kubernetes e bancos de dados, especialmente PostgreSQL e MongoDB. 
+Além disso, tem conhecimentos em Data Warehouse e SQL, além de certificação Business Intelligence Foundation Professional Certification (BIFPC™). 
+Recentemente, demonstrou interesse em FinOps, infraestrutura como código (IaC), automação com Ansible, e segurança em DevOps.
